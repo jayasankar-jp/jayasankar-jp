@@ -12,7 +12,7 @@
 - 👯 I’m looking to collaborate on IOT project.
 - 💬 Ask me about Arduino,Any tech-related stuff.
 - ⚡ Fun fact: I 💖 Memes.
-- portfolio: https://sci-copath.github.io/portfolio/
+- portfolio: https://jayasankar-jp.github.io/portfolio/
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1586280906/8541/computercat.gif?1586280906" align="center"
                 width="28" /> My Tech Stack</h2> </summary>
@@ -35,7 +35,7 @@
 <br>
 <p align="center">
     <a >
-        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayasanakr streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sci-copath&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
+        <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Jayasanakr streak" src="https://github-readme-streak-stats.herokuapp.com/?user=jayasankar-jp&theme=black-ice&hide_border=true&stroke=0000&background=060A0CD0"/>
     </a>
 </p>
 <br>
@@ -43,8 +43,8 @@
 <summary><h2>⚙️ &nbsp;GitHub Analytics</h2></summary>
 
 <p align="center">
-    <a ><img alt="Jayasankar Github Stats" src="https://github-readme-stats.vercel.app/api?username=sci-copath&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-  <img alt="Jayasankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sci-copath&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a ><img alt="Jayasankar Github Stats" src="https://github-readme-stats.vercel.app/api?username=jayasankar-jp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
+  <img alt="Jayasankar's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasankar-jp&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
