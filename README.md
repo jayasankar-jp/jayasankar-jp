@@ -93,9 +93,15 @@ Working on <b>Telecom Applications using C++</b><br>
 <summary><h2>⚙️ GitHub Analytics</h2></summary>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=jayasankar-jp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasankar-jp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" />
+<!-- <img src="https://github-readme-stats.vercel.app/api?username=jayasankar-jp&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /> -->
+<!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jayasankar-jp&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /> -->
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jayasankar-jp&theme=tokyonight"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jayasankar-jp&theme=tokyonight"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=jayasankar-jp&theme=tokyonight"/>
+<img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=jayasankar-jp&theme=tokyonight"/>
+<img src ="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=jayasankar-jp&theme=tokyonight&utcOffset=8"/>
 </p>
+
 
 <summary><h2><img src="https://emojis.slackmojis.com/emojis/images/1579216111/7550/pikachu_wave.gif?1579216111" align="center" width="28" /> Connect with me</h2></summary>
 
